@@ -1,8 +1,8 @@
 ## Programacion en pila completa 2 
 Proyecto fullstack
 
-> Author: Erick Estrada Senado
-> # Control: 161130256
+> ####Author: Erick Estrada Senado
+> #####Control: 161130256
 
 ### Tecnologias utilizadas
 
