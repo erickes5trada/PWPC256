@@ -2,6 +2,7 @@
 Proyecto fullstack
 
 > Author: Erick Estrada Senado
+> 
 > N° Control: 161130256
 
 ### Tecnologias utilizadas
