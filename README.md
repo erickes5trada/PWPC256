@@ -10,5 +10,5 @@ Proyecto fullstack
 | Area Empleada | Tecnología |
 |---------------|------------|
 | Front end | HTML + CSS3 + JS + TAILWIND CSS|
-| Back end | Nodejs + SQL |
+| Back end | Nodejs + MongoDB |
 
